@@ -14,12 +14,13 @@ body {
 }
 
 a {
-  color: #1bbd36;
+  color: black;
 }
 
 a:hover {
-  color: #2ae149;
+  color: gray;
   text-decoration: none;
+  transition: all 0.2ms;
 }
 
 h1, h2, h3, h4, h5, h6 {
